@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mr.chen/AndroidStudioProjects/MobileGuard/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/mr.chen/AndroidStudioProjects/MobileGuard/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_328c31d74725325536cf7f4433edc74b24d05f86.jar" />
+    </item>
+    <item
+        jar="/Users/mr.chen/AndroidStudioProjects/MobileGuard/app/libs/xutils_library.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4c1a8f6c51975dbae51c115d3f8e6175475459e6">
+        <dex dex="/Users/mr.chen/AndroidStudioProjects/MobileGuard/app/build/intermediates/pre-dexed/debug/xutils_library_08eeb9ab93cbbe8853bdd3178c054094aec94779.jar" />
+    </item>
+    <item
+        jar="/Users/mr.chen/AndroidStudioProjects/MobileGuard/app/libs/org.apache.http.legacy.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="017030d11901291abf8f83a812984276b643ea0f">
+        <dex dex="/Users/mr.chen/AndroidStudioProjects/MobileGuard/app/build/intermediates/pre-dexed/debug/org.apache.http.legacy_71ddd83a53187f4c489df872d8f48acbe71b2dbd.jar" />
+    </item>
+    <item
+        jar="/Users/mr.chen/AndroidStudioProjects/MobileGuard/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/mr.chen/AndroidStudioProjects/MobileGuard/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_40100844d3c26ff127923dfdfaa202b8a85ab555.jar" />
+    </item>
+    <item
+        jar="/Users/mr.chen/Documents/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/mr.chen/AndroidStudioProjects/MobileGuard/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_fb74568baae26ab0016b329f02b34a08f7141a08.jar" />
+    </item>
+    <item
+        jar="/Users/mr.chen/AndroidStudioProjects/MobileGuard/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/mr.chen/AndroidStudioProjects/MobileGuard/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_f895afc493618c3a53ba4a7eafc15a37a22d1081.jar" />
+    </item>
+    <item
+        jar="/Users/mr.chen/AndroidStudioProjects/MobileGuard/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/mr.chen/AndroidStudioProjects/MobileGuard/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_8c8b953d86bd287889bed63f08840bf0ab8cd476.jar" />
+    </item>
+    <item
+        jar="/Users/mr.chen/AndroidStudioProjects/MobileGuard/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/mr.chen/AndroidStudioProjects/MobileGuard/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_08805d8d22bf5f3ec160459a9836669ab3f97739.jar" />
+    </item>
+
+</items>

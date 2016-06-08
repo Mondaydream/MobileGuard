@@ -1,0 +1,20 @@
+
+# zfl for all android project
+
+/**/local.properties
+/**/*.log
+/**/.DS_Store
+/**/*.iml
+/**/*.iws
+/**/*.ipr
+/**/.gradle/
+/**/bak/
+/**/gen/
+/**/*.patch
+/**/*.txt
+/**/*.cfg
+/**/obfuscate/
+/.idea
+/captures/
+/config/
+!/**/zkm_script.txt
